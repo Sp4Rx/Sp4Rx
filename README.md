@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/Sp4Rx?label=Follow&style=social)](https://github.com/Sp4Rx)
 
-- 🔭 I’m currently working at @tailorbird as Sr. fullstack Enginner
+- 🔭 I'm currently working on building tech somewhere beautiful.
 - Check my 🌱 [resume](https://suvajit.in/)
 - 😄 Call me: shu-vo-jit
 
